@@ -10,8 +10,6 @@ The reward function of a Partially Observable Markov Decision Process is Markovi
 #### POMDP in Picture Description Task, NSERC-USRA Research Intern, with Prof. Sheila McIlraith and Prof. Frank Rudzicz
 
 Developed a POMDP model as part of a communicative, intelligent system that guides a person in a picture description task. The project used symbolicPerseus by Pascal Poupart as the primary POMDP-solver.
- 
-#### Network Visualizer for Graph Algorithms (work in progress)
 
 
 ## Contact
