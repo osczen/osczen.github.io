@@ -1,49 +1,6 @@
-<!DOCTYPE html>
-<html lang="en" class="no-js">
+#H1
+Oscar Chen
 
-<!-- this is the head for making everything work-->
-<head>
-	<meta charset="UTF-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Oscar Chen</title>
-	<meta name="description" content="" />
-	<meta name="keywords" content="" />
-	<link rel="shortcut icon" href="../favicon.ico">
-
-	<link rel="stylesheet" type="text/css" href="css/default.css" />
-    <link rel="stylesheet" type="text/css" href="css/nav.css" />
-	<link rel="stylesheet" type="text/css" href="css/component.css" />
-    <link rel="stylesheet" type="text/css" href="css/header.css" />
-    <link rel="stylesheet" type="text/css" href="css/slider.css" />
-
-	<script src="js/modernizr.custom.js"></script>
-</head>
-	<body>
-<!--             <div id="slidy-container">
-                <figure id="slidy">
-                <img src="images/uoft.png" alt="">
-                <img src="images/uoft_cs.png" alt="">
-                </figure>
-            </div> -->
-
-		<div class="container demo-1">
-			<header class="header-style">
-			<div>
-				<h1>Oscar Chen</h1>
-
-                <div class="uoft">
-                    <a href="http://www.cs.toronto.edu/"><img src="images/uoft.png" alt="img02" /></a>
-                </div>
-
-                <h2>Computer Science, University of Toronto</h2>
-
-				<nav class="codrops-demos" id="mydiv">
-					<a href="#research">Research</a>
-					<a href="#github">Github</a>
-                    <a href="#teaching">Teaching</a>
-					<a href="#aboutme">About Me</a>
-				</nav>
 
 
 				<p>
