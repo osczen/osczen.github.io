@@ -13,13 +13,6 @@ Developed a POMDP model as part of a communicative, intelligent system that guid
  
 #### Network Visualizer for Graph Algorithms (work in progress)
 
-## Teaching
-
-#### CSC324H1: Principles of Programming Languages, Fall 2015
-Assisted in the teaching of a third-year course covering topics on the principles of programming languages. Course materials covered programming in Racket and Haskell. Held weekly lab tutorials where students can work on lab assignments and ask questions related to the course material.
-
-#### CSC108H1: Intro to Computer Programming, Winter 2015
-Assisted in the teaching of a first-year intro course to programming as an inverted-classroom TA. Course materials covered programming in Python. Elementary data types, lists, maps. Program structure: control flow, functions, classes, objects, methods. Algorithms and problem solving. Searching, sorting, and complexity. Unit testing.
 
 ## Contact
 I can be reached by email at ozhc2[at]cam[dot]ac[dot]uk
